@@ -38,5 +38,5 @@ setup(
     extras_require={
         'test': ['nose', 'mock']
     },
- +  use_2to3 = True
+    use_2to3 = True
 )
